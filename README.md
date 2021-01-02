@@ -1,1 +1,1 @@
-# chocolate-recipes
+# chocolate
